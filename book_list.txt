@@ -1,0 +1,19 @@
+1. Title: 1984  
+   Author: George Orwell  
+   Description: A dystopian novel set in a totalitarian society where the government controls every aspect of life, including thoughts. A classic warning against oppressive regimes and mass surveillance.
+
+2. Title: To Kill a Mockingbird  
+   Author: Harper Lee  
+   Description: A timeless story of racial injustice and moral growth in the American South, told through the eyes of a young girl named Scout.
+
+3. Title: Sapiens: A Brief History of Humankind  
+   Author: Yuval Noah Harari  
+   Description: A thought-provoking look at the history of Homo sapiens — from the Stone Age to the modern digital era — exploring how biology, culture, and technology shaped humanity.
+
+4. Title: Atomic Habits  
+   Author: James Clear  
+   Description: A practical guide to building good habits and breaking bad ones. Offers actionable steps grounded in psychology and behavior science.
+
+5. Title: The Great Gatsby  
+   Author: F. Scott Fitzgerald  
+   Description: A tragic love story and a critique of the American Dream, set in the Roaring Twenties. It explores themes of wealth, desire, and illusion.
