@@ -1,0 +1,57 @@
+Markdown Guide
+
+This guide explains basic Markdown syntax commonly used in GitHub projects.
+
+1. Headings
+
+Use `#` symbols to create headings:
+
+# H1
+## H2
+### H3
+#### H4
+
+2. Emphasis
+
+- *Italic* → `*Italic*` or `_Italic_`
+- **Bold** → `**Bold**` or `__Bold__`
+- ***Bold & Italic*** → `***Bold & Italic***`
+
+3. Lists
+
+Unordered List:
+- Item 1
+- Item 2
+  - Sub-item
+  - Sub-item
+
+Ordered List:
+1. First
+2. Second
+   1. Nested
+
+4. Links
+
+Syntax:
+
+Example:
+[Visit GitHub](https://github.com)
+
+5. Images
+
+Syntax:
+
+Example:
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+6. Code Blocks
+
+Inline Code:
+Use backticks: `` `code` `` → Example: `print("Hello")`
+
+Multiline Code:
+Use triple backticks:
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
